@@ -1,0 +1,9 @@
+# 환경설정 파일
+.env
+*.env
+*.env.*
+# IDE 및 에디터 설정
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,6 @@
+numpy
+pandas
+PyMySQL
+flask
+python-dotenv
+scikit-learn
